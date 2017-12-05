@@ -1,0 +1,11 @@
+*.iml
+.idea
+target
+build
+.DS_Store
+*.jar
+logs/
+out/
+classes/
+.gradle
+.gradletasknamecache
